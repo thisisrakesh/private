@@ -1,0 +1,12 @@
+{
+  "routes": {
+    "/": {},
+    "/admin": {},
+    "/admin-login": {},
+    "/announcements": {},
+    "/employee-login": {},
+    "/employee-profile": {},
+    "/leave-application": {},
+    "/leave-request": {}
+  }
+}
